@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+.env
+.env.*
+yarn-error.log
+vite.config.js.timestamp*.mjs

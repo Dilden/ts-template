@@ -1,3 +1,1 @@
-console.log("success");
-
-export const tests = () => 1;
+export const returnsOne = () => 1;
